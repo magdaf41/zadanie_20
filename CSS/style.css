@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(245, 237, 237);
+}
+h1{
+    background-color: #d4e0e7;
+}
+#p_first{
+    background-color: #e3f6f5;
+}
+h2{
+    background-color: #bae8e8;
+}
+#p_second{
+    background-color: #e3f6f5;
+}
+ol{
+    background-color: #dfdeed;
+}
+#one{
+    color: black;
+}
+#two{
+    color:red;
+}
+#three{
+    color: green;
+}
+#four{
+    color: blue;
+}
+#five{
+    color: rgb(132, 0, 255);
+}
+
